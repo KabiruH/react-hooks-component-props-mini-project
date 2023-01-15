@@ -14,7 +14,7 @@ const blogData = {
     },
     {
       id: 2,
-      title: "React Data Flow",
+      title: "React preview Flow",
       date: "December 11, 2020",
       preview: "Passing props is never passé",
       minutes: 15,
